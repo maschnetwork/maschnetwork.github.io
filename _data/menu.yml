@@ -1,0 +1,24 @@
+entries:
+  - title: info
+    entries:
+      - title: maschnetwork blog
+      - title: github repo
+        url: https://github.com/maschnetwork
+
+  - title: all posts
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: archive.html
+
+  - title: rss
+    url: feed.xml
+  
+  - title: talks
+    entries:
+      - title: with subitems
+        entries:
+          - title: with subsubitems
+          - title: example page
+            url: about
